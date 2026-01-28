@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;
 
-public class TrichXuatLogRegex {
+public class Ls5 {
     
     public static class LogEntry {
         String ngayThang;
@@ -101,3 +101,4 @@ public class TrichXuatLogRegex {
         scanner.close();
     }
 }
+
